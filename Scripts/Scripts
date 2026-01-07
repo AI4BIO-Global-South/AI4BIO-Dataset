@@ -1,0 +1,7 @@
+Overview of the pipeline for processing each dataset:
+Outline:
+0. Generate the matrix containing the data and samples.
+1. Associate probes with genes. Collapse when there are multiple probes for a single gene, using the median.
+2. Create a matrix containing only protein-coding genes. Perform https://www.csbiology.org/tools/MDP (MDP) and use IQR and z-score to determine whether or not to remove any samples. Beware of cherry-picking.
+3. Perform differential expression analysis; the tool depends on how the data is delivered (LogFC, FPKM, etc.).
+4. Calculate the score and organize from highest to lowest to choose the top 1000.
