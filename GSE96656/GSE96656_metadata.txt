@@ -1,0 +1,41 @@
+Sample	Class	Disease state
+GSM2537347	Infection	 Dengue Fever
+GSM2537348	Infection	 Dengue Fever
+GSM2537349	Infection	 Dengue Fever
+GSM2537350	Infection	 Dengue Hemorrhagic Fever
+GSM2537351	Infection	 Dengue Fever
+GSM2537352	Infection	 Dengue Fever
+GSM2537353	Infection	 Dengue Fever
+GSM2537354	Infection	 Dengue Fever
+GSM2537355	Infection	 Dengue Fever
+GSM2537356	Infection	 Dengue Fever
+GSM2537357	Infection	 Dengue Fever
+GSM2537358	Infection	 Dengue Fever
+GSM2537359	Infection	 Dengue Fever
+GSM2537360	Infection	 Dengue Hemorrhagic Fever
+GSM2537361	Infection	 Dengue Hemorrhagic Fever
+GSM2537362	Infection	 Dengue Fever
+GSM2537363	Infection	 Dengue Fever
+GSM2537364	Infection	 Dengue Fever
+GSM2537365	Infection	 Dengue Fever
+GSM2537366	Infection	 Dengue Fever
+GSM2537367	Infection	 Dengue Fever
+GSM2537368	Infection	 Dengue Hemorrhagic Fever
+GSM2537369	Infection	 Dengue Hemorrhagic Fever
+GSM2537370	Infection	 Dengue Hemorrhagic Fever
+GSM2537371	Infection	 Dengue Fever
+GSM2537372	Infection	 Dengue Fever
+GSM2537373	Infection	 Dengue Fever
+GSM2537374	Infection	 Dengue Fever
+GSM2537375	Infection	 Dengue Fever
+GSM2537376	Infection	 Dengue Fever
+GSM2537377	Infection	 Dengue Hemorrhagic Fever
+GSM2537378	Control	 Healthy
+GSM2537379	Control	 Healthy
+GSM2537380	Control	 Healthy
+GSM2537381	Control	 Healthy
+GSM2537382	Control	 Healthy
+GSM2537383	Control	 Healthy
+GSM2537384	Control	 Healthy
+GSM2537385	Control	 Healthy
+GSM2537386	Control	 Healthy
