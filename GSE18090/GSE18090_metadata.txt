@@ -1,0 +1,23 @@
+Sample	Class	Gender	Age	days of symptoms:	IgM	IgG
+GSM452235	Infection	 female	30	3	 Neg	 Pos
+GSM452236	Infection	 female	40	4	 Neg	 Pos
+GSM452237	Infection	 male	45	6	 Pos	 Pos
+GSM452238	Infection	 male	53	4	 Neg	 Pos
+GSM452239	Infection	 female	29	5	 Neg	 Pos
+GSM452240	Infection	 male	27	1	 Neg	 Pos
+GSM452241	Infection	 male	44	5	 Neg	 Pos
+GSM452242	Infection	 female	23	7	 Pos	 Neg
+GSM452243	Infection	 male	41	3	 Neg	 Pos
+GSM452246	Infection	 female	26	7	 Pos	 Neg
+GSM452247	Infection	 male	19	7	 Pos	 Neg
+GSM452248	Infection	 female	22	4	 Neg	 Neg
+GSM452250	Infection	 female	35	5	 Pos	 Pos
+GSM452251	Infection	 female	21	7	 Pos	 Neg
+GSM452252	Infection	 female	21	5	 Pos	 Neg
+GSM452253	Control	 male	41	4	 Neg	 Neg
+GSM452255	Control	 male	47	4	 Neg	 Neg
+GSM452256	Control	 male	54	4	 Neg	 Neg
+GSM452257	Control	 female	23	6	 Neg	 Neg
+GSM452258	Control	 female	19	6	 Neg	 Neg
+GSM452259	Control	 female	30	2	 Neg	 Neg
+GSM452260	Control	 female	64	4	 Neg	 Neg
