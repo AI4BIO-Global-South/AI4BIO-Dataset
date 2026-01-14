@@ -1,0 +1,38 @@
+Sample	Class	Status
+GSM1253075	Control	Healthy control c3
+GSM1253076	Control	Healthy control c5
+GSM1253077	Control	Healthy control c4
+GSM1253078	Control	Healthy control c6
+GSM1253079	Control	Healthy control c1
+GSM1253080	Control	Healthy control c8
+GSM1253081	Control	Healthy control c7
+GSM1253082	Control	Healthy control c9
+GSM1253083	Control	Healthy control c2
+GSM1253028	Infection	 DF
+GSM1253029	Infection	 DF
+GSM1253030	Infection	 DF
+GSM1253031	Infection	 DF
+GSM1253032	Infection	 DHF
+GSM1253033	Infection	 DF
+GSM1253034	Infection	 DHF
+GSM1253035	Infection	 DF
+GSM1253036	Infection	 DF
+GSM1253037	Infection	 DHF
+GSM1253038	Infection	 DF
+GSM1253039	Infection	 DHF
+GSM1253040	Infection	 DHF
+GSM1253041	Infection	 DHF
+GSM1253042	Infection	 DF
+GSM1253043	Infection	 DF
+GSM1253044	Infection	 DF
+GSM1253045	Infection	 DF
+GSM1253046	Infection	 DHF
+GSM1253047	Infection	 DF
+GSM1253048	Infection	 DHF
+GSM1253049	Infection	 DHF
+GSM1253050	Infection	 DF
+GSM1253051	Infection	 DF
+GSM1253052	Infection	 DHF
+GSM1253053	Infection	 DF
+GSM1253054	Infection	 DF
+GSM1253055	Infection	 DF
