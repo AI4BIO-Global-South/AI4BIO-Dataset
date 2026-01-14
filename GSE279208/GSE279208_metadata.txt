@@ -1,0 +1,27 @@
+Sample	Class	Dengue type
+GSM8564259	Control	No one
+GSM8564260	Control	No one
+GSM8564261	Control	No one
+GSM8564262	Control	No one
+GSM8564263	Control	No one
+GSM8564264	Control	No one
+GSM8564265	Control	No one
+GSM8564266	Control	No one
+GSM8564267	Control	No one
+GSM8564268	Control	No one
+GSM8564269	Infection	DWWS
+GSM8564270	Infection	DWWS
+GSM8564271	Infection	DWWS
+GSM8564272	Infection	DWWS
+GSM8564273	Infection	DWWS
+GSM8564274	Infection	DWWS
+GSM8564275	Infection	DWWS
+GSM8564276	Infection	DWWS
+GSM8564277	Infection	DWWS
+GSM8564278	Infection	DWWS
+GSM8564279	Infection	DWWS
+GSM8564280	Infection	DS
+GSM8564281	Infection	DWWS
+GSM8564282	Infection	DWWS
+GSM8564283	Infection	DS
+GSM8564284	Infection	DWWS
